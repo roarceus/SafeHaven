@@ -14,16 +14,16 @@
 1. Navigate into the cloned repository backend directory:
     ```bash
     cd backend
-    npm install
+    npm i --force
     ```
 2. Navigate into the cloned repository frontend directory:
     ```bash
     cd ../frontend
-    npm install
+    npm i --force
     ```
 3. Navigate into the cloned repository root directory:
     ```bash
-    npm install
+    npm i --force
     ```
 
 ## Step 3: Start the Development Servers
